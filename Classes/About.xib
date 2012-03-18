@@ -12,7 +12,7 @@
 		</object>
 		<object class="NSMutableArray" key="IBDocument.EditedObjectIDs">
 			<bool key="EncodedWithXMLCoder">YES</bool>
-			<integer value="4"/>
+			<integer value="1"/>
 		</object>
 		<object class="NSArray" key="IBDocument.PluginDependencies">
 			<bool key="EncodedWithXMLCoder">YES</bool>
@@ -48,14 +48,14 @@
 						<string key="NSFrame">{{0, 23}, {320, 460}}</string>
 						<reference key="NSSuperview" ref="191373211"/>
 						<object class="NSColor" key="IBUIBackgroundColor">
-							<int key="NSColorSpace">1</int>
-							<bytes key="NSRGB">MSAxIDEAA</bytes>
+							<int key="NSColorSpace">2</int>
+							<bytes key="NSRGB">MC45ODQzMTM3ODYgMSAwLjk1Njg2MjgwNzMAA</bytes>
 						</object>
 						<bool key="IBUIClipsSubviews">YES</bool>
 						<bool key="IBUIMultipleTouchEnabled">YES</bool>
 						<string key="targetRuntimeIdentifier">IBCocoaTouchFramework</string>
 						<bool key="IBUIEditable">NO</bool>
-						<string key="IBUIText">iKeys is an application devoted to assisting song writers by providing them with an easy and convenient way to quickly find all the chords and notes that fit into a particular key.                   To get started, simply press the "Go To App" button. From here, press the button corresponding to the key you are interested in composing your song in. Now you will be greeted with all the notes and chords that work with the chosen key. From here, you can press the buttons named after the chords to be taken to a picture of the fingering of the chord on guitar.                            Many thanks to the fine folks at JGuitar for allowing me to use these chord fingering pictures in this application. Please visit JGuitar.com by following this link: http://jguitar.com/      Application created by Tom Forzaglia</string>
+						<string key="IBUIText">ComposeInKey is an application devoted to assisting song writers by providing them with an easy and convenient way to quickly find all the chords and notes that fit into a particular key.                                       To get started, simply press the "Go To App" button. From here, press the button corresponding to the key you are interested in composing your song in. Now you will be greeted with all the notes and chords that work with the chosen key. From here, you can press the buttons named after the chords to be taken to a picture of the fingering of the chord on guitar.                            Many thanks to the fine folks at JGuitar for allowing me to use these chord fingering pictures in this application. Please visit JGuitar.com by following this link: http://jguitar.com/      Application created by Tom Forzaglia</string>
 						<int key="IBUITextAlignment">1</int>
 						<object class="IBUITextInputTraits" key="IBUITextInputTraits">
 							<int key="IBUIAutocapitalizationType">2</int>

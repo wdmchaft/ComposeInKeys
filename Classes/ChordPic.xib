@@ -45,7 +45,7 @@
 					<object class="IBUILabel" id="655569179">
 						<reference key="NSNextResponder" ref="191373211"/>
 						<int key="NSvFlags">292</int>
-						<string key="NSFrame">{{55, 98}, {200, 190}}</string>
+						<string key="NSFrame">{{68, 108}, {200, 190}}</string>
 						<reference key="NSSuperview" ref="191373211"/>
 						<bool key="IBUIOpaque">NO</bool>
 						<bool key="IBUIClipsSubviews">YES</bool>
@@ -147,8 +147,8 @@
 						<reference key="object" ref="191373211"/>
 						<object class="NSMutableArray" key="children">
 							<bool key="EncodedWithXMLCoder">YES</bool>
-							<reference ref="655569179"/>
 							<reference ref="366106279"/>
+							<reference ref="655569179"/>
 						</object>
 						<reference key="parent" ref="0"/>
 					</object>
@@ -192,11 +192,11 @@
 					<bool key="EncodedWithXMLCoder">YES</bool>
 					<string>ChordPic</string>
 					<string>UIResponder</string>
-					<string>{{516, 3}, {320, 480}}</string>
+					<string>{{477, 15}, {320, 480}}</string>
 					<string>com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
 					<string>com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
 					<object class="NSAffineTransform">
-						<bytes key="NSTransformStruct">P4AAAL+AAABCXAAAw48AAA</bytes>
+						<bytes key="NSTransformStruct">P4AAAL+AAABClAAAw5QAAA</bytes>
 					</object>
 					<string>com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
 					<object class="NSAffineTransform">
@@ -220,7 +220,7 @@
 				</object>
 			</object>
 			<nil key="sourceID"/>
-			<int key="maxID">7</int>
+			<int key="maxID">8</int>
 		</object>
 		<object class="IBClassDescriber" key="IBDocument.Classes">
 			<object class="NSMutableArray" key="referencedPartialClassDescriptions">
