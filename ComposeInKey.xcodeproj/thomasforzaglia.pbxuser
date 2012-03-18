@@ -68,8 +68,8 @@
 					PBXFileDataSource_Target_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 353778697;
-			PBXWorkspaceStateSaveDate = 353778697;
+			PBXPerProjectTemplateStateSaveDate = 353780397;
+			PBXWorkspaceStateSaveDate = 353780397;
 		};
 		perUserProjectItems = {
 			4953B9381515A00D00DA7C52 /* PBXTextBookmark */ = 4953B9381515A00D00DA7C52 /* PBXTextBookmark */;
@@ -80,9 +80,6 @@
 			4953B93D1515A00D00DA7C52 /* PBXTextBookmark */ = 4953B93D1515A00D00DA7C52 /* PBXTextBookmark */;
 			4953B93E1515A00D00DA7C52 /* PBXTextBookmark */ = 4953B93E1515A00D00DA7C52 /* PBXTextBookmark */;
 			4953B93F1515A00D00DA7C52 /* PBXBookmark */ = 4953B93F1515A00D00DA7C52 /* PBXBookmark */;
-			4993A37B151641ED00BC79B8 /* PBXBookmark */ = 4993A37B151641ED00BC79B8 /* PBXBookmark */;
-			4993A37C151641ED00BC79B8 /* PBXBookmark */ = 4993A37C151641ED00BC79B8 /* PBXBookmark */;
-			4993A37D151641ED00BC79B8 /* PBXBookmark */ = 4993A37D151641ED00BC79B8 /* PBXBookmark */;
 			49C8C7A91515799900515A5A /* PBXTextBookmark */ = 49C8C7A91515799900515A5A /* PBXTextBookmark */;
 			49C8C7AA1515799900515A5A /* PBXTextBookmark */ = 49C8C7AA1515799900515A5A /* PBXTextBookmark */;
 			49C8C7AB1515799900515A5A /* PBXTextBookmark */ = 49C8C7AB1515799900515A5A /* PBXTextBookmark */;
@@ -107,6 +104,13 @@
 			sepNavSelRange = "{101, 0}";
 			sepNavVisRange = "{0, 1045}";
 		};
+	};
+	4953B93215159C4000DA7C52 /* music_1.jpg */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.jpeg;
+		name = music_1.jpg;
+		path = /Users/thomasforzaglia/Downloads/music_1.jpg;
+		sourceTree = "<absolute>";
 	};
 	4953B9381515A00D00DA7C52 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
@@ -181,18 +185,6 @@
 	4953B93F1515A00D00DA7C52 /* PBXBookmark */ = {
 		isa = PBXBookmark;
 		fRef = 4953B93215159C4000DA7C52 /* music_1.jpg */;
-	};
-	4993A37B151641ED00BC79B8 /* PBXBookmark */ = {
-		isa = PBXBookmark;
-		fRef = 4953B93515159FE200DA7C52 /* 7280wwp2r8t6od.jpg */;
-	};
-	4993A37C151641ED00BC79B8 /* PBXBookmark */ = {
-		isa = PBXBookmark;
-		fRef = 4993A377151640B400BC79B8 /* 10547vmkf4yaw82.jpg */;
-	};
-	4993A37D151641ED00BC79B8 /* PBXBookmark */ = {
-		isa = PBXBookmark;
-		fRef = 4993A377151640B400BC79B8 /* 10547vmkf4yaw82.jpg */;
 	};
 	49C8C7301515742F00515A5A /* AllKeys.h */ = {
 		uiCtxt = {

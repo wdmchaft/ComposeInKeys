@@ -51,7 +51,7 @@
 						<string key="targetRuntimeIdentifier">IBCocoaTouchFramework</string>
 						<object class="NSCustomResource" key="IBUIImage">
 							<string key="NSClassName">NSImage</string>
-							<string key="NSResourceName">7280wwp2r8t6od.jpg</string>
+							<string key="NSResourceName">view_background.jpg</string>
 						</object>
 					</object>
 					<object class="IBUILabel" id="343596167">
@@ -457,8 +457,8 @@
 							<reference ref="958437679"/>
 							<reference ref="285979835"/>
 							<reference ref="612037743"/>
-							<reference ref="343596167"/>
 							<reference ref="598123445"/>
+							<reference ref="343596167"/>
 						</object>
 						<reference key="parent" ref="0"/>
 					</object>
@@ -596,7 +596,7 @@
 					<string>com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
 					<string>com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
 					<object class="NSAffineTransform">
-						<bytes key="NSTransformStruct">P4AAAL+AAABBoAAAwrYAAA</bytes>
+						<bytes key="NSTransformStruct">P4AAAL+AAABBoAAAwqgAAA</bytes>
 					</object>
 					<string>com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
 					<object class="NSAffineTransform">
@@ -983,7 +983,7 @@
 		<string key="IBDocument.LastKnownRelativeProjectPath">../ComposeInKey.xcodeproj</string>
 		<int key="IBDocument.defaultPropertyAccessControl">3</int>
 		<object class="NSMutableDictionary" key="IBDocument.LastKnownImageSizes">
-			<string key="NS.key.0">7280wwp2r8t6od.jpg</string>
+			<string key="NS.key.0">view_background.jpg</string>
 			<string key="NS.object.0">{400, 265}</string>
 		</object>
 		<string key="IBCocoaTouchPluginVersion">141</string>

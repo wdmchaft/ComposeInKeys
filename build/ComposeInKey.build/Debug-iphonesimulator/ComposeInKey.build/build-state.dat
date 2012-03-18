@@ -774,14 +774,14 @@ t1332027398
 s2487
 
 N/Users/thomasforzaglia/ComposeInKeys/../Downloads/10547vmkf4yaw82.jpg
-c000000004F660909000000000001563F
-t1332087049
-s87615
+c00000000000000000000000000000000
+t2
+s0
 
 N/Users/thomasforzaglia/ComposeInKeys/../Downloads/7280wwp2r8t6od.jpg
-c000000004F65684A0000000000015928
-t1332045898
-s88360
+c00000000000000000000000000000000
+t2
+s0
 
 N/Users/thomasforzaglia/ComposeInKeys/../Downloads/music_1.jpg
 c000000004F6564A30000000000016771
@@ -820,9 +820,9 @@ i"AllKeys.h"
 i"KeyInfo.h"
 
 N/Users/thomasforzaglia/ComposeInKeys/Classes/AllKeys.xib
-c000000004F66054C0000000000011EE2
-t1332086092
-s73442
+c000000004F660B5B0000000000011EE4
+t1332087643
+s73444
 
 N/Users/thomasforzaglia/ComposeInKeys/Classes/ChordPic.h
 c000000004F653EDF000000000000010F
@@ -870,9 +870,9 @@ i"AllKeys.h"
 i"ChordPic.h"
 
 N/Users/thomasforzaglia/ComposeInKeys/Classes/KeyInfo.xib
-c000000004F660682000000000000AB2C
-t1332086402
-s43820
+c000000004F660B69000000000000AB2E
+t1332087657
+s43822
 
 N/Users/thomasforzaglia/ComposeInKeys/Classes/MainMenuViewController.h
 c000000004F65321600000000000000F8
@@ -898,9 +898,9 @@ i<Foundation/Foundation.h>
 i<UIKit/UIKit.h>
 
 N/Users/thomasforzaglia/ComposeInKeys/ComposeInKeys-1.moved-aside/MainMenuViewController.xib
-c000000004F6609620000000000006940
-t1332087138
-s26944
+c000000004F660B4C0000000000006934
+t1332087628
+s26932
 
 N/Users/thomasforzaglia/ComposeInKeys/Icon.png
 c000000004F6539630000000000001715
@@ -1145,6 +1145,10 @@ N/Users/thomasforzaglia/ComposeInKeys/build/Debug-iphonesimulator/ComposeInKey.a
 t1332036478
 s1895
 
+N/Users/thomasforzaglia/ComposeInKeys/build/Debug-iphonesimulator/ComposeInKey.app/main_menu.jpg
+t2
+s0
+
 N/Users/thomasforzaglia/ComposeInKeys/build/Debug-iphonesimulator/ComposeInKey.app/music_1.jpg
 t1332085905
 s92017
@@ -1154,6 +1158,10 @@ t1332036478
 s2487
 
 N/Users/thomasforzaglia/ComposeInKeys/build/Debug-iphonesimulator/ComposeInKey.app/untitled.nib
+t2
+s0
+
+N/Users/thomasforzaglia/ComposeInKeys/build/Debug-iphonesimulator/ComposeInKey.app/view_background.jpg
 t2
 s0
 
@@ -1253,6 +1261,11 @@ t1332029281
 s370
 i<UIKit/UIKit.h>
 
+N/Users/thomasforzaglia/ComposeInKeys/main_menu.jpg
+c000000004F660909000000000001563F
+t1332087049
+s87615
+
 N/Users/thomasforzaglia/ComposeInKeys/notes.png
 c000000004F65396300000000000009B7
 t1332033891
@@ -1274,6 +1287,11 @@ N/Users/thomasforzaglia/ComposeInKeys/untitled.xib
 c000000004F6542D50000000000001853
 t1332036309
 s6227
+
+N/Users/thomasforzaglia/ComposeInKeys/view_background.jpg
+c000000004F65684A0000000000015928
+t1332045898
+s88360
 
 N/var/folders/vv/vvt6HHV5Hn4LyfxIDT9JqU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ComposeInKey_Prefix-fvdeliqgicvfyuemucplpjvowrso/ComposeInKey_Prefix.pch.gch
 t1332029579
@@ -2178,6 +2196,9 @@ xbuild/Debug-iphonesimulator/ComposeInKey.app/gsharpm.gif
 xgsharpm.gif
 lSLF07#2@16"Copy gsharpm.gif353729278#353729278#0(0"0(0#0#48"/Users/thomasforzaglia/ComposeInKeys/gsharpm.gif8612749056#468"    cd /Users/thomasforzaglia/ComposeInKeys    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/thomasforzaglia/ComposeInKeys/gsharpm.gif /Users/thomasforzaglia/ComposeInKeys/build/Debug-iphonesimulator/ComposeInKey.app0#
 
+CCpResource build/Debug-iphonesimulator/ComposeInKey.app/main_menu.jpg main_menu.jpg
+r0
+
 CCpResource build/Debug-iphonesimulator/ComposeInKey.app/music_1.jpg ../Downloads/music_1.jpg
 s353778704.891758
 e353778705.031911
@@ -2204,6 +2225,9 @@ xCpResource
 xbuild/Debug-iphonesimulator/ComposeInKey.app/notes.png
 xnotes.png
 lSLF07#2@14"Copy notes.png353729278#353729278#0(0"0(0#0#46"/Users/thomasforzaglia/ComposeInKeys/notes.png8611583040#466"    cd /Users/thomasforzaglia/ComposeInKeys    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/thomasforzaglia/ComposeInKeys/notes.png /Users/thomasforzaglia/ComposeInKeys/build/Debug-iphonesimulator/ComposeInKey.app0#
+
+CCpResource build/Debug-iphonesimulator/ComposeInKey.app/view_background.jpg view_background.jpg
+r0
 
 CGenerateDSYMFile /Users/thomasforzaglia/ComposeInKey/build/Debug-iphonesimulator/ComposeInKey.app.dSYM /Users/thomasforzaglia/ComposeInKey/build/Debug-iphonesimulator/ComposeInKey.app/ComposeInKey
 s353724839.629717
