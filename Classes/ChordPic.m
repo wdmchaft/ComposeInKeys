@@ -7,7 +7,6 @@
 
 #import "ChordPic.h"
 
-
 @implementation ChordPic
 
 @synthesize picture;

@@ -356,7 +356,6 @@
 											<string>4953B93C1515A00D00DA7C52</string>
 											<string>4953B93D1515A00D00DA7C52</string>
 											<string>4953B93E1515A00D00DA7C52</string>
-											<string>4953B93F1515A00D00DA7C52</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -368,14 +367,14 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 0}, {1098, 549}}</string>
+								<string>{{0, 0}, {1098, 543}}</string>
 								<key>RubberWindowFrame</key>
 								<string>29 59 1356 819 0 0 1440 878 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
 							<key>Proportion</key>
-							<string>549pt</string>
+							<string>543pt</string>
 						</dict>
 						<dict>
 							<key>ContentConfiguration</key>
@@ -388,14 +387,14 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 554}, {1098, 224}}</string>
+								<string>{{0, 548}, {1098, 230}}</string>
 								<key>RubberWindowFrame</key>
 								<string>29 59 1356 819 0 0 1440 878 </string>
 							</dict>
 							<key>Module</key>
 							<string>XCDetailModule</string>
 							<key>Proportion</key>
-							<string>224pt</string>
+							<string>230pt</string>
 						</dict>
 					</array>
 					<key>Proportion</key>
@@ -414,9 +413,9 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>492E3621151642B200CC0A98</string>
+				<string>4910F8211518430200321AE5</string>
 				<string>1CE0B1FE06471DED0097A5F4</string>
-				<string>492E3622151642B200CC0A98</string>
+				<string>4910F8221518430200321AE5</string>
 				<string>1CE0B20306471E060097A5F4</string>
 				<string>1CE0B20506471E060097A5F4</string>
 			</array>
@@ -537,7 +536,7 @@
 	<key>StatusbarIsVisible</key>
 	<true/>
 	<key>TimeStamp</key>
-	<real>353780476.45296502</real>
+	<real>353911554.85295898</real>
 	<key>ToolbarConfigUserDefaultsMinorVersion</key>
 	<string>2</string>
 	<key>ToolbarDisplayMode</key>
@@ -554,8 +553,10 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
-		<string>49CB48EC1515604900C88AB6</string>
+		<string>1CD10A99069EF8BA00B06720</string>
 		<string>/Users/thomasforzaglia/ComposeInKeys/ComposeInKey.xcodeproj</string>
+		<string>49CB48EC1515604900C88AB6</string>
+		<string>1C78EAAD065D492600B07095</string>
 	</array>
 	<key>WindowString</key>
 	<string>29 59 1356 819 0 0 1440 878 </string>
@@ -596,6 +597,8 @@
 							<string>218pt</string>
 						</dict>
 						<dict>
+							<key>BecomeActive</key>
+							<true/>
 							<key>ContentConfiguration</key>
 							<dict>
 								<key>PBXProjectModuleGUID</key>
@@ -635,7 +638,7 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>49CB48EC1515604900C88AB6</string>
-				<string>492E3623151642B200CC0A98</string>
+				<string>4910F8231518430200321AE5</string>
 				<string>1CD0528F0623707200166675</string>
 				<string>XCMainBuildResultsModuleGUID</string>
 			</array>
@@ -648,7 +651,7 @@
 			<key>WindowToolGUID</key>
 			<string>49CB48EC1515604900C88AB6</string>
 			<key>WindowToolIsVisible</key>
-			<false/>
+			<true/>
 		</dict>
 		<dict>
 			<key>FirstTimeWindowDisplayed</key>
@@ -757,13 +760,13 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>1CD10A99069EF8BA00B06720</string>
-				<string>4993A35715163C1700BC79B8</string>
+				<string>4910F8241518430200321AE5</string>
 				<string>1C162984064C10D400B95A72</string>
-				<string>4993A35815163C1700BC79B8</string>
-				<string>4993A35915163C1700BC79B8</string>
-				<string>4993A35A15163C1700BC79B8</string>
-				<string>4993A35B15163C1700BC79B8</string>
-				<string>4993A35C15163C1700BC79B8</string>
+				<string>4910F8251518430200321AE5</string>
+				<string>4910F8261518430200321AE5</string>
+				<string>4910F8271518430200321AE5</string>
+				<string>4910F8281518430200321AE5</string>
+				<string>4910F8291518430200321AE5</string>
 			</array>
 			<key>ToolbarConfiguration</key>
 			<string>xcode.toolbar.config.debugV3</string>
@@ -927,7 +930,7 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>1C78EAAD065D492600B07095</string>
-				<string>4993A35D15163C1700BC79B8</string>
+				<string>4910F82A1518430200321AE5</string>
 				<string>1C78EAAC065D492600B07095</string>
 			</array>
 			<key>ToolbarConfiguration</key>
@@ -937,7 +940,7 @@
 			<key>WindowToolGUID</key>
 			<string>1C78EAAD065D492600B07095</string>
 			<key>WindowToolIsVisible</key>
-			<false/>
+			<true/>
 		</dict>
 		<dict>
 			<key>Identifier</key>

@@ -1,5 +1,5 @@
 //
-//  RootViewController.m
+//  MainMenuViewController.m
 //  ComposeInKey
 //
 //  Created by Thomas Forzaglia on 2/13/12.
