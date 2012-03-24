@@ -6,6 +6,7 @@
 //
 
 #import <UIKit/UIKit.h>
+#import <AVFoundation/AVFoundation.h>
 #import "AllKeys.h"
 
 @class AllKeys;
@@ -15,17 +16,21 @@
 	UIButton* chordPressed;
 	UILabel* chordTitle;
 	UILabel* noteList;
+	UIButton* hidden;
 	UIButton* chord1;
 	UIButton* chord2;
 	UIButton* chord3;
 	UIButton* chord4;
 	UIButton* chord5;
 	UIButton* chord6;
+	
+	AVAudioPlayer* musicPlayer;
 }
 
 @property (nonatomic, retain) IBOutlet UIButton* chordPressed;
 @property (nonatomic, retain) IBOutlet UILabel* chordTitle;
 @property (nonatomic, retain) IBOutlet UILabel* noteList;
+@property (nonatomic, retain) IBOutlet UIButton* hidden;
 @property (nonatomic, retain) IBOutlet UIButton* chord1;
 @property (nonatomic, retain) IBOutlet UIButton* chord2;
 @property (nonatomic, retain) IBOutlet UIButton* chord3;
@@ -35,5 +40,6 @@
 
 -(IBAction)goToChordPic:(id)sender;
 -(IBAction)goBack:(id)sender;
+-(IBAction)playScale:(id)sender;
 
 @end

@@ -5,6 +5,8 @@
 //  Created by Thomas Forzaglia on 2/16/12.
 //
 
+#import <AVFoundation/AVFoundation.h>
+
 #import "KeyInfo.h"
 #import "AllKeys.h"
 #import "ChordPic.h"
@@ -14,6 +16,7 @@
 @synthesize chordPressed;
 @synthesize chordTitle;
 @synthesize noteList;
+@synthesize hidden;
 @synthesize chord1;
 @synthesize chord2;
 @synthesize chord3;
@@ -28,6 +31,9 @@
 	
     NSString *buttonPressed = [defaults objectForKey:@"button"];
 	
+	NSError* error;
+	musicPlayer = [AVAudioPlayer alloc];
+	
 	if ([buttonPressed isEqualToString:@"A"] || [buttonPressed isEqualToString:@"F#m"]) {
 		if ([buttonPressed isEqualToString:@"A"])
 			chordTitle.text = @"A Major";	
@@ -40,6 +46,10 @@
 		[chord4 setTitle:@"D" forState:UIControlStateNormal];
 		[chord5 setTitle:@"E" forState:UIControlStateNormal];
 		[chord6 setTitle:@"F#m" forState:UIControlStateNormal];		
+		
+		NSURL* musicURL = [NSURL fileURLWithPath:[[NSBundle mainBundle] pathForResource:@"Unwell" ofType:@"mp3"]];	
+		[musicPlayer initWithContentsOfURL:musicURL error:&error];
+
 	}
 	if ([buttonPressed isEqualToString:@"A#"] || [buttonPressed isEqualToString:@"Gm"]) {
 		if ([buttonPressed isEqualToString:@"A#"])
@@ -203,11 +213,16 @@
 	[self.navigationController pushViewController:chordPic animated:NO];
 }
 
-- (IBAction)goBack:(id)sender {
+-(IBAction)goBack:(id)sender {
 	
 	[self.navigationController popViewControllerAnimated:NO];
 }
 
+-(IBAction)playScale:(id)sender {
+
+	[musicPlayer play];
+}
+	
 // The designated initializer.  Override if you create the controller programmatically and want to perform customization that is not appropriate for viewDidLoad.
 /*
  - (id)initWithNibName:(NSString *)nibNameOrNil bundle:(NSBundle *)nibBundleOrNil {

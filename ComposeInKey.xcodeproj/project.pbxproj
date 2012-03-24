@@ -22,6 +22,7 @@
 		492E3627151642B900CC0A98 /* view_background.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 492E3625151642B900CC0A98 /* view_background.jpg */; };
 		492F14741515724900C2EAE1 /* About.m in Sources */ = {isa = PBXBuildFile; fileRef = 492F14721515724900C2EAE1 /* About.m */; };
 		492F14751515724900C2EAE1 /* About.xib in Resources */ = {isa = PBXBuildFile; fileRef = 492F14731515724900C2EAE1 /* About.xib */; };
+		497EB587151D8ECB00DF37EB /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 497EB586151D8ECB00DF37EB /* AVFoundation.framework */; };
 		49C8C7331515742F00515A5A /* AllKeys.m in Sources */ = {isa = PBXBuildFile; fileRef = 49C8C7311515742F00515A5A /* AllKeys.m */; };
 		49C8C7341515742F00515A5A /* AllKeys.xib in Resources */ = {isa = PBXBuildFile; fileRef = 49C8C7321515742F00515A5A /* AllKeys.xib */; };
 		49C8C74D1515755500515A5A /* KeyInfo.m in Sources */ = {isa = PBXBuildFile; fileRef = 49C8C74B1515755500515A5A /* KeyInfo.m */; };
@@ -76,6 +77,7 @@
 		492F14711515724900C2EAE1 /* About.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = About.h; sourceTree = "<group>"; };
 		492F14721515724900C2EAE1 /* About.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = About.m; sourceTree = "<group>"; };
 		492F14731515724900C2EAE1 /* About.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = About.xib; path = Classes/About.xib; sourceTree = "<group>"; };
+		497EB586151D8ECB00DF37EB /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
 		49C8C7301515742F00515A5A /* AllKeys.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AllKeys.h; sourceTree = "<group>"; };
 		49C8C7311515742F00515A5A /* AllKeys.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AllKeys.m; sourceTree = "<group>"; };
 		49C8C7321515742F00515A5A /* AllKeys.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = AllKeys.xib; path = Classes/AllKeys.xib; sourceTree = "<group>"; };
@@ -121,6 +123,7 @@
 				1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */,
 				1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */,
 				2892E4100DC94CBA00A64D0F /* CoreGraphics.framework in Frameworks */,
+				497EB587151D8ECB00DF37EB /* AVFoundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -222,6 +225,7 @@
 		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				497EB586151D8ECB00DF37EB /* AVFoundation.framework */,
 				1DF5F4DF0D08C38300B7A737 /* UIKit.framework */,
 				1D30AB110D05D00D00671497 /* Foundation.framework */,
 				2892E40F0DC94CBA00A64D0F /* CoreGraphics.framework */,
