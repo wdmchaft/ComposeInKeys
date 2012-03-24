@@ -1,0 +1,6 @@
+Want to make it so that when you press the view "Notes in the Scale" it plays the scale and lights up the current note being played.
+Store the notes in the array
+
+3/24/12 1:46AM
+Added a hidden button over the view to handle playing the audio clip of the scale when the user taps the note list. Added the music player from the AVFoundation framework. Tested on one key. Seemed to work. Will need to test further.
+ 

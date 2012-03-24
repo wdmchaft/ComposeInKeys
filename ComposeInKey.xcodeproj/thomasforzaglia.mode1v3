@@ -291,8 +291,7 @@
 							<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
 							<array>
 								<array>
-									<integer>11</integer>
-									<integer>1</integer>
+									<integer>15</integer>
 									<integer>0</integer>
 								</array>
 							</array>
@@ -346,7 +345,7 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>49B1D322151D94ED004BF582</string>
+										<string>49B1D334151D9664004BF582</string>
 										<key>history</key>
 										<array>
 											<string>49C8C7CB15157CBD00515A5A</string>
@@ -544,7 +543,7 @@
 	<key>StatusbarIsVisible</key>
 	<true/>
 	<key>TimeStamp</key>
-	<real>354260205.72122103</real>
+	<real>354260580.69298702</real>
 	<key>ToolbarConfigUserDefaultsMinorVersion</key>
 	<string>2</string>
 	<key>ToolbarDisplayMode</key>
@@ -561,10 +560,10 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
-		<string>1CD10A99069EF8BA00B06720</string>
-		<string>/Users/thomasforzaglia/ComposeInKeys/ComposeInKey.xcodeproj</string>
-		<string>49CB48EC1515604900C88AB6</string>
 		<string>1C78EAAD065D492600B07095</string>
+		<string>1CD10A99069EF8BA00B06720</string>
+		<string>49CB48EC1515604900C88AB6</string>
+		<string>/Users/thomasforzaglia/ComposeInKeys/ComposeInKey.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
 	<string>29 59 1356 819 0 0 1440 878 </string>
@@ -659,7 +658,7 @@
 			<key>WindowToolGUID</key>
 			<string>49CB48EC1515604900C88AB6</string>
 			<key>WindowToolIsVisible</key>
-			<true/>
+			<false/>
 		</dict>
 		<dict>
 			<key>FirstTimeWindowDisplayed</key>
@@ -948,7 +947,7 @@
 			<key>WindowToolGUID</key>
 			<string>1C78EAAD065D492600B07095</string>
 			<key>WindowToolIsVisible</key>
-			<true/>
+			<false/>
 		</dict>
 		<dict>
 			<key>Identifier</key>
