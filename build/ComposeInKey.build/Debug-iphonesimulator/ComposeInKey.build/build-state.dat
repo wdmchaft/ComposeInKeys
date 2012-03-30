@@ -1,7 +1,7 @@
 TComposeInKey
 v7
 r0
-t354260371.108531
+t354775964.281179
 cCheck dependencies
 cProcessInfoPlistFile /Users/thomasforzaglia/ComposeInKeys/build/Debug-iphonesimulator/ComposeInKey.app/Info.plist ComposeInKey-Info.plist
 cCompileXIB /Users/thomasforzaglia/ComposeInKeys/MainWindow.xib
@@ -40,7 +40,6 @@ cCpResource build/Debug-iphonesimulator/ComposeInKey.app/Default.png Default.png
 cCpResource build/Debug-iphonesimulator/ComposeInKey.app/Icon-settings.png Icon-settings.png
 cCpResource build/Debug-iphonesimulator/ComposeInKey.app/Icon-spot-ipad.png Icon-spot-ipad.png
 cCpResource build/Debug-iphonesimulator/ComposeInKey.app/Icon.png Icon.png
-cCpResource build/Debug-iphonesimulator/ComposeInKey.app/Unwell.mp3 ../Unwell.mp3
 cProcessPCH /var/folders/vv/vvt6HHV5Hn4LyfxIDT9JqU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ComposeInKey_Prefix-gzcjvozefkbvtccgljevbnxyriry/ComposeInKey_Prefix.pch.gch ComposeInKey_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
 cCompileC build/ComposeInKey.build/Debug-iphonesimulator/ComposeInKey.build/Objects-normal/i386/main.o /Users/thomasforzaglia/ComposeInKeys/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
 cCompileC build/ComposeInKey.build/Debug-iphonesimulator/ComposeInKey.build/Objects-normal/i386/ComposeInKeyAppDelegate.o /Users/thomasforzaglia/ComposeInKeys/Classes/ComposeInKeyAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
@@ -876,26 +875,26 @@ i"ComposeInKeyAppDelegate.h"
 i"MainMenuViewController.h"
 
 N/Users/thomasforzaglia/ComposeInKeys/Classes/KeyInfo.h
-c000000004F6D598F000000000000047B
-t1332566415
-s1147
+c000000004F753BBA0000000000000625
+t1333083066
+s1573
 i<UIKit/UIKit.h>
 i<AVFoundation/AVFoundation.h>
 i"AllKeys.h"
 
 N/Users/thomasforzaglia/ComposeInKeys/Classes/KeyInfo.m
-c000000004F6D5E3B00000000000025DE
-t1332567611
-s9694
+c000000004F753D270000000000002BAC
+t1333083431
+s11180
 i<AVFoundation/AVFoundation.h>
 i"KeyInfo.h"
 i"AllKeys.h"
 i"ChordPic.h"
 
 N/Users/thomasforzaglia/ComposeInKeys/Classes/KeyInfo.xib
-c000000004F6D4DEB000000000000B5D0
-t1332563435
-s46544
+c000000004F753C18000000000000E834
+t1333083160
+s59444
 
 N/Users/thomasforzaglia/ComposeInKeys/Classes/MainMenuViewController.h
 c000000004F6810C600000000000000FC
@@ -1000,8 +999,8 @@ t1332034684
 s38412
 
 N/Users/thomasforzaglia/ComposeInKeys/build/ComposeInKey.build/Debug-iphonesimulator/ComposeInKey.build/Objects-normal/i386/AllKeys.o
-t1332567384
-s69728
+t1333083068
+s69832
 
 N/Users/thomasforzaglia/ComposeInKeys/build/ComposeInKey.build/Debug-iphonesimulator/ComposeInKey.build/Objects-normal/i386/ChordPic.o
 t1332220208
@@ -1017,12 +1016,12 @@ t1332220208
 s53284
 
 N/Users/thomasforzaglia/ComposeInKeys/build/ComposeInKey.build/Debug-iphonesimulator/ComposeInKey.build/Objects-normal/i386/KeyInfo.o
-t1332567384
-s72760
+t1333083090
+s85976
 
 N/Users/thomasforzaglia/ComposeInKeys/build/ComposeInKey.build/Debug-iphonesimulator/ComposeInKey.build/Objects-normal/i386/MainMenuViewController.o
-t1332567384
-s42332
+t1333083068
+s42436
 
 N/Users/thomasforzaglia/ComposeInKeys/build/ComposeInKey.build/Debug-iphonesimulator/ComposeInKey.build/Objects-normal/i386/main.o
 t1332033527
@@ -1033,11 +1032,11 @@ t2
 s0
 
 N/Users/thomasforzaglia/ComposeInKeys/build/Debug-iphonesimulator/ComposeInKey.app
-t1332567571
+t1333083164
 s1666
 
 N/Users/thomasforzaglia/ComposeInKeys/build/Debug-iphonesimulator/ComposeInKey.app.dSYM
-t1332567384
+t1333083090
 s102
 
 N/Users/thomasforzaglia/ComposeInKeys/build/Debug-iphonesimulator/ComposeInKey.app/10547vmkf4yaw82.jpg
@@ -1065,8 +1064,8 @@ t1332086678
 s3356
 
 N/Users/thomasforzaglia/ComposeInKeys/build/Debug-iphonesimulator/ComposeInKey.app/ComposeInKey
-t1332567384
-s61992
+t1333083090
+s67716
 
 N/Users/thomasforzaglia/ComposeInKeys/build/Debug-iphonesimulator/ComposeInKey.app/Default.png
 t1332220026
@@ -1097,8 +1096,8 @@ t1332029578
 s611
 
 N/Users/thomasforzaglia/ComposeInKeys/build/Debug-iphonesimulator/ComposeInKey.app/KeyInfo.nib
-t1332567382
-s7290
+t1333083164
+s8822
 
 N/Users/thomasforzaglia/ComposeInKeys/build/Debug-iphonesimulator/ComposeInKey.app/MainMenuViewController.nib
 t1332218754
@@ -1375,7 +1374,7 @@ s909
 
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies354260370#354260370#0(0"0(0#1#0"8598210912#0"0#
+lSLF07#2@18"Check dependencies354775963#354775963#0(0"0(0#1#0"8605156288#0"0#
 
 CCompileC build/ComposeInKey.build/Debug-iphonesimulator/ComposeInKey.build/Objects-normal/i386/About.o /Users/thomasforzaglia/ComposeInKey/../ComposeInKey-/Classes/About.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s353722379.644187
@@ -1443,8 +1442,8 @@ xcom.apple.compilers.gcc.4_2
 lSLF07#2@79"Compile /Users/thomasforzaglia/ComposeInKeys/../ComposeInKey-/Classes/AllKeys.m353726327#353726327#0(0"0(0#0#71"/Users/thomasforzaglia/ComposeInKeys/../ComposeInKey-/Classes/AllKeys.m8618363264#2023"    cd /Users/thomasforzaglia/ComposeInKeys    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/thomasforzaglia/ComposeInKeys/build/ComposeInKey.build/Debug-iphonesimulator/ComposeInKey.build/ComposeInKey-generated-files.hmap -I/Users/thomasforzaglia/ComposeInKeys/build/ComposeInKey.build/Debug-iphonesimulator/ComposeInKey.build/ComposeInKey-own-target-headers.hmap -I/Users/thomasforzaglia/ComposeInKeys/build/ComposeInKey.build/Debug-iphonesimulator/ComposeInKey.build/ComposeInKey-all-target-headers.hmap -iquote /Users/thomasforzaglia/ComposeInKeys/build/ComposeInKey.build/Debug-iphonesimulator/ComposeInKey.build/ComposeInKey-project-headers.hmap -F/Users/thomasforzaglia/ComposeInKeys/build/Debug-iphonesimulator -I/Users/thomasforzaglia/ComposeInKeys/build/Debug-iphonesimulator/include -I/Users/thomasforzaglia/ComposeInKeys/build/ComposeInKey.build/Debug-iphonesimulator/ComposeInKey.build/DerivedSources/i386 -I/Users/thomasforzaglia/ComposeInKeys/build/ComposeInKey.build/Debug-iphonesimulator/ComposeInKey.build/DerivedSources -include /var/folders/vv/vvt6HHV5Hn4LyfxIDT9JqU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ComposeInKey_Prefix-gzcjvozefkbvtccgljevbnxyriry/ComposeInKey_Prefix.pch -c /Users/thomasforzaglia/ComposeInKeys/../ComposeInKey-/Classes/AllKeys.m -o /Users/thomasforzaglia/ComposeInKeys/build/ComposeInKey.build/Debug-iphonesimulator/ComposeInKey.build/Objects-normal/i386/AllKeys.o0#
 
 CCompileC build/ComposeInKey.build/Debug-iphonesimulator/ComposeInKey.build/Objects-normal/i386/AllKeys.o /Users/thomasforzaglia/ComposeInKeys/Classes/AllKeys.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s354260182.969671
-e354260184.285102
+s354775867.780576
+e354775868.037264
 r1
 xCompileC
 xbuild/ComposeInKey.build/Debug-iphonesimulator/ComposeInKey.build/Objects-normal/i386/AllKeys.o
@@ -1453,7 +1452,7 @@ xnormal
 xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@62"Compile /Users/thomasforzaglia/ComposeInKeys/Classes/AllKeys.m354260182#354260184#0(0"0(0#0#54"/Users/thomasforzaglia/ComposeInKeys/Classes/AllKeys.m8619144992#2006"    cd /Users/thomasforzaglia/ComposeInKeys    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/thomasforzaglia/ComposeInKeys/build/ComposeInKey.build/Debug-iphonesimulator/ComposeInKey.build/ComposeInKey-generated-files.hmap -I/Users/thomasforzaglia/ComposeInKeys/build/ComposeInKey.build/Debug-iphonesimulator/ComposeInKey.build/ComposeInKey-own-target-headers.hmap -I/Users/thomasforzaglia/ComposeInKeys/build/ComposeInKey.build/Debug-iphonesimulator/ComposeInKey.build/ComposeInKey-all-target-headers.hmap -iquote /Users/thomasforzaglia/ComposeInKeys/build/ComposeInKey.build/Debug-iphonesimulator/ComposeInKey.build/ComposeInKey-project-headers.hmap -F/Users/thomasforzaglia/ComposeInKeys/build/Debug-iphonesimulator -I/Users/thomasforzaglia/ComposeInKeys/build/Debug-iphonesimulator/include -I/Users/thomasforzaglia/ComposeInKeys/build/ComposeInKey.build/Debug-iphonesimulator/ComposeInKey.build/DerivedSources/i386 -I/Users/thomasforzaglia/ComposeInKeys/build/ComposeInKey.build/Debug-iphonesimulator/ComposeInKey.build/DerivedSources -include /var/folders/vv/vvt6HHV5Hn4LyfxIDT9JqU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ComposeInKey_Prefix-gzcjvozefkbvtccgljevbnxyriry/ComposeInKey_Prefix.pch -c /Users/thomasforzaglia/ComposeInKeys/Classes/AllKeys.m -o /Users/thomasforzaglia/ComposeInKeys/build/ComposeInKey.build/Debug-iphonesimulator/ComposeInKey.build/Objects-normal/i386/AllKeys.o0#
+lSLF07#2@62"Compile /Users/thomasforzaglia/ComposeInKeys/Classes/AllKeys.m354775867#354775868#0(0"0(0#0#54"/Users/thomasforzaglia/ComposeInKeys/Classes/AllKeys.m8613846304#2006"    cd /Users/thomasforzaglia/ComposeInKeys    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/thomasforzaglia/ComposeInKeys/build/ComposeInKey.build/Debug-iphonesimulator/ComposeInKey.build/ComposeInKey-generated-files.hmap -I/Users/thomasforzaglia/ComposeInKeys/build/ComposeInKey.build/Debug-iphonesimulator/ComposeInKey.build/ComposeInKey-own-target-headers.hmap -I/Users/thomasforzaglia/ComposeInKeys/build/ComposeInKey.build/Debug-iphonesimulator/ComposeInKey.build/ComposeInKey-all-target-headers.hmap -iquote /Users/thomasforzaglia/ComposeInKeys/build/ComposeInKey.build/Debug-iphonesimulator/ComposeInKey.build/ComposeInKey-project-headers.hmap -F/Users/thomasforzaglia/ComposeInKeys/build/Debug-iphonesimulator -I/Users/thomasforzaglia/ComposeInKeys/build/Debug-iphonesimulator/include -I/Users/thomasforzaglia/ComposeInKeys/build/ComposeInKey.build/Debug-iphonesimulator/ComposeInKey.build/DerivedSources/i386 -I/Users/thomasforzaglia/ComposeInKeys/build/ComposeInKey.build/Debug-iphonesimulator/ComposeInKey.build/DerivedSources -include /var/folders/vv/vvt6HHV5Hn4LyfxIDT9JqU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ComposeInKey_Prefix-gzcjvozefkbvtccgljevbnxyriry/ComposeInKey_Prefix.pch -c /Users/thomasforzaglia/ComposeInKeys/Classes/AllKeys.m -o /Users/thomasforzaglia/ComposeInKeys/build/ComposeInKey.build/Debug-iphonesimulator/ComposeInKey.build/Objects-normal/i386/AllKeys.o0#
 
 CCompileC build/ComposeInKey.build/Debug-iphonesimulator/ComposeInKey.build/Objects-normal/i386/ChordPic.o /Users/thomasforzaglia/ComposeInKey/../ComposeInKey-/Classes/ChordPic.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s353722379.647221
@@ -1547,8 +1546,8 @@ xcom.apple.compilers.gcc.4_2
 lSLF07#2@79"Compile /Users/thomasforzaglia/ComposeInKeys/../ComposeInKey-/Classes/KeyInfo.m353726327#353726327#0(0"0(0#0#71"/Users/thomasforzaglia/ComposeInKeys/../ComposeInKey-/Classes/KeyInfo.m8614599776#2023"    cd /Users/thomasforzaglia/ComposeInKeys    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/thomasforzaglia/ComposeInKeys/build/ComposeInKey.build/Debug-iphonesimulator/ComposeInKey.build/ComposeInKey-generated-files.hmap -I/Users/thomasforzaglia/ComposeInKeys/build/ComposeInKey.build/Debug-iphonesimulator/ComposeInKey.build/ComposeInKey-own-target-headers.hmap -I/Users/thomasforzaglia/ComposeInKeys/build/ComposeInKey.build/Debug-iphonesimulator/ComposeInKey.build/ComposeInKey-all-target-headers.hmap -iquote /Users/thomasforzaglia/ComposeInKeys/build/ComposeInKey.build/Debug-iphonesimulator/ComposeInKey.build/ComposeInKey-project-headers.hmap -F/Users/thomasforzaglia/ComposeInKeys/build/Debug-iphonesimulator -I/Users/thomasforzaglia/ComposeInKeys/build/Debug-iphonesimulator/include -I/Users/thomasforzaglia/ComposeInKeys/build/ComposeInKey.build/Debug-iphonesimulator/ComposeInKey.build/DerivedSources/i386 -I/Users/thomasforzaglia/ComposeInKeys/build/ComposeInKey.build/Debug-iphonesimulator/ComposeInKey.build/DerivedSources -include /var/folders/vv/vvt6HHV5Hn4LyfxIDT9JqU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ComposeInKey_Prefix-gzcjvozefkbvtccgljevbnxyriry/ComposeInKey_Prefix.pch -c /Users/thomasforzaglia/ComposeInKeys/../ComposeInKey-/Classes/KeyInfo.m -o /Users/thomasforzaglia/ComposeInKeys/build/ComposeInKey.build/Debug-iphonesimulator/ComposeInKey.build/Objects-normal/i386/KeyInfo.o0#
 
 CCompileC build/ComposeInKey.build/Debug-iphonesimulator/ComposeInKey.build/Objects-normal/i386/KeyInfo.o /Users/thomasforzaglia/ComposeInKeys/Classes/KeyInfo.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s354260182.971105
-e354260184.285515
+s354775890.337241
+e354775890.470017
 r1
 xCompileC
 xbuild/ComposeInKey.build/Debug-iphonesimulator/ComposeInKey.build/Objects-normal/i386/KeyInfo.o
@@ -1557,7 +1556,7 @@ xnormal
 xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@62"Compile /Users/thomasforzaglia/ComposeInKeys/Classes/KeyInfo.m354260182#354260184#0(0"0(0#0#54"/Users/thomasforzaglia/ComposeInKeys/Classes/KeyInfo.m8616066560#2006"    cd /Users/thomasforzaglia/ComposeInKeys    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/thomasforzaglia/ComposeInKeys/build/ComposeInKey.build/Debug-iphonesimulator/ComposeInKey.build/ComposeInKey-generated-files.hmap -I/Users/thomasforzaglia/ComposeInKeys/build/ComposeInKey.build/Debug-iphonesimulator/ComposeInKey.build/ComposeInKey-own-target-headers.hmap -I/Users/thomasforzaglia/ComposeInKeys/build/ComposeInKey.build/Debug-iphonesimulator/ComposeInKey.build/ComposeInKey-all-target-headers.hmap -iquote /Users/thomasforzaglia/ComposeInKeys/build/ComposeInKey.build/Debug-iphonesimulator/ComposeInKey.build/ComposeInKey-project-headers.hmap -F/Users/thomasforzaglia/ComposeInKeys/build/Debug-iphonesimulator -I/Users/thomasforzaglia/ComposeInKeys/build/Debug-iphonesimulator/include -I/Users/thomasforzaglia/ComposeInKeys/build/ComposeInKey.build/Debug-iphonesimulator/ComposeInKey.build/DerivedSources/i386 -I/Users/thomasforzaglia/ComposeInKeys/build/ComposeInKey.build/Debug-iphonesimulator/ComposeInKey.build/DerivedSources -include /var/folders/vv/vvt6HHV5Hn4LyfxIDT9JqU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ComposeInKey_Prefix-gzcjvozefkbvtccgljevbnxyriry/ComposeInKey_Prefix.pch -c /Users/thomasforzaglia/ComposeInKeys/Classes/KeyInfo.m -o /Users/thomasforzaglia/ComposeInKeys/build/ComposeInKey.build/Debug-iphonesimulator/ComposeInKey.build/Objects-normal/i386/KeyInfo.o0#
+lSLF07#2@62"Compile /Users/thomasforzaglia/ComposeInKeys/Classes/KeyInfo.m354775890#354775890#0(0"0(0#0#54"/Users/thomasforzaglia/ComposeInKeys/Classes/KeyInfo.m8613227072#2006"    cd /Users/thomasforzaglia/ComposeInKeys    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/thomasforzaglia/ComposeInKeys/build/ComposeInKey.build/Debug-iphonesimulator/ComposeInKey.build/ComposeInKey-generated-files.hmap -I/Users/thomasforzaglia/ComposeInKeys/build/ComposeInKey.build/Debug-iphonesimulator/ComposeInKey.build/ComposeInKey-own-target-headers.hmap -I/Users/thomasforzaglia/ComposeInKeys/build/ComposeInKey.build/Debug-iphonesimulator/ComposeInKey.build/ComposeInKey-all-target-headers.hmap -iquote /Users/thomasforzaglia/ComposeInKeys/build/ComposeInKey.build/Debug-iphonesimulator/ComposeInKey.build/ComposeInKey-project-headers.hmap -F/Users/thomasforzaglia/ComposeInKeys/build/Debug-iphonesimulator -I/Users/thomasforzaglia/ComposeInKeys/build/Debug-iphonesimulator/include -I/Users/thomasforzaglia/ComposeInKeys/build/ComposeInKey.build/Debug-iphonesimulator/ComposeInKey.build/DerivedSources/i386 -I/Users/thomasforzaglia/ComposeInKeys/build/ComposeInKey.build/Debug-iphonesimulator/ComposeInKey.build/DerivedSources -include /var/folders/vv/vvt6HHV5Hn4LyfxIDT9JqU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ComposeInKey_Prefix-gzcjvozefkbvtccgljevbnxyriry/ComposeInKey_Prefix.pch -c /Users/thomasforzaglia/ComposeInKeys/Classes/KeyInfo.m -o /Users/thomasforzaglia/ComposeInKeys/build/ComposeInKey.build/Debug-iphonesimulator/ComposeInKey.build/Objects-normal/i386/KeyInfo.o0#
 
 CCompileC build/ComposeInKey.build/Debug-iphonesimulator/ComposeInKey.build/Objects-normal/i386/MainMenuViewController.o /Users/thomasforzaglia/ComposeInKey/Classes/MainMenuViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s353724839.564207
@@ -1573,8 +1572,8 @@ xcom.apple.compilers.gcc.4_2
 lSLF07#2@76"Compile /Users/thomasforzaglia/ComposeInKey/Classes/MainMenuViewController.m353724839#353724839#0(0"0(0#0#68"/Users/thomasforzaglia/ComposeInKey/Classes/MainMenuViewController.m8645587904#2025"    cd /Users/thomasforzaglia/ComposeInKey    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/thomasforzaglia/ComposeInKey/build/ComposeInKey.build/Debug-iphonesimulator/ComposeInKey.build/ComposeInKey-generated-files.hmap -I/Users/thomasforzaglia/ComposeInKey/build/ComposeInKey.build/Debug-iphonesimulator/ComposeInKey.build/ComposeInKey-own-target-headers.hmap -I/Users/thomasforzaglia/ComposeInKey/build/ComposeInKey.build/Debug-iphonesimulator/ComposeInKey.build/ComposeInKey-all-target-headers.hmap -iquote /Users/thomasforzaglia/ComposeInKey/build/ComposeInKey.build/Debug-iphonesimulator/ComposeInKey.build/ComposeInKey-project-headers.hmap -F/Users/thomasforzaglia/ComposeInKey/build/Debug-iphonesimulator -I/Users/thomasforzaglia/ComposeInKey/build/Debug-iphonesimulator/include -I/Users/thomasforzaglia/ComposeInKey/build/ComposeInKey.build/Debug-iphonesimulator/ComposeInKey.build/DerivedSources/i386 -I/Users/thomasforzaglia/ComposeInKey/build/ComposeInKey.build/Debug-iphonesimulator/ComposeInKey.build/DerivedSources -include /var/folders/vv/vvt6HHV5Hn4LyfxIDT9JqU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ComposeInKey_Prefix-fvdeliqgicvfyuemucplpjvowrso/ComposeInKey_Prefix.pch -c /Users/thomasforzaglia/ComposeInKey/Classes/MainMenuViewController.m -o /Users/thomasforzaglia/ComposeInKey/build/ComposeInKey.build/Debug-iphonesimulator/ComposeInKey.build/Objects-normal/i386/MainMenuViewController.o0#
 
 CCompileC build/ComposeInKey.build/Debug-iphonesimulator/ComposeInKey.build/Objects-normal/i386/MainMenuViewController.o /Users/thomasforzaglia/ComposeInKeys/Classes/MainMenuViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s354260182.968341
-e354260184.284500
+s354775867.779417
+e354775868.014534
 r1
 xCompileC
 xbuild/ComposeInKey.build/Debug-iphonesimulator/ComposeInKey.build/Objects-normal/i386/MainMenuViewController.o
@@ -1583,7 +1582,7 @@ xnormal
 xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@77"Compile /Users/thomasforzaglia/ComposeInKeys/Classes/MainMenuViewController.m354260182#354260184#0(0"0(0#0#69"/Users/thomasforzaglia/ComposeInKeys/Classes/MainMenuViewController.m8620559744#2036"    cd /Users/thomasforzaglia/ComposeInKeys    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/thomasforzaglia/ComposeInKeys/build/ComposeInKey.build/Debug-iphonesimulator/ComposeInKey.build/ComposeInKey-generated-files.hmap -I/Users/thomasforzaglia/ComposeInKeys/build/ComposeInKey.build/Debug-iphonesimulator/ComposeInKey.build/ComposeInKey-own-target-headers.hmap -I/Users/thomasforzaglia/ComposeInKeys/build/ComposeInKey.build/Debug-iphonesimulator/ComposeInKey.build/ComposeInKey-all-target-headers.hmap -iquote /Users/thomasforzaglia/ComposeInKeys/build/ComposeInKey.build/Debug-iphonesimulator/ComposeInKey.build/ComposeInKey-project-headers.hmap -F/Users/thomasforzaglia/ComposeInKeys/build/Debug-iphonesimulator -I/Users/thomasforzaglia/ComposeInKeys/build/Debug-iphonesimulator/include -I/Users/thomasforzaglia/ComposeInKeys/build/ComposeInKey.build/Debug-iphonesimulator/ComposeInKey.build/DerivedSources/i386 -I/Users/thomasforzaglia/ComposeInKeys/build/ComposeInKey.build/Debug-iphonesimulator/ComposeInKey.build/DerivedSources -include /var/folders/vv/vvt6HHV5Hn4LyfxIDT9JqU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ComposeInKey_Prefix-gzcjvozefkbvtccgljevbnxyriry/ComposeInKey_Prefix.pch -c /Users/thomasforzaglia/ComposeInKeys/Classes/MainMenuViewController.m -o /Users/thomasforzaglia/ComposeInKeys/build/ComposeInKey.build/Debug-iphonesimulator/ComposeInKey.build/Objects-normal/i386/MainMenuViewController.o0#
+lSLF07#2@77"Compile /Users/thomasforzaglia/ComposeInKeys/Classes/MainMenuViewController.m354775867#354775868#0(0"0(0#0#69"/Users/thomasforzaglia/ComposeInKeys/Classes/MainMenuViewController.m8614189024#2036"    cd /Users/thomasforzaglia/ComposeInKeys    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/thomasforzaglia/ComposeInKeys/build/ComposeInKey.build/Debug-iphonesimulator/ComposeInKey.build/ComposeInKey-generated-files.hmap -I/Users/thomasforzaglia/ComposeInKeys/build/ComposeInKey.build/Debug-iphonesimulator/ComposeInKey.build/ComposeInKey-own-target-headers.hmap -I/Users/thomasforzaglia/ComposeInKeys/build/ComposeInKey.build/Debug-iphonesimulator/ComposeInKey.build/ComposeInKey-all-target-headers.hmap -iquote /Users/thomasforzaglia/ComposeInKeys/build/ComposeInKey.build/Debug-iphonesimulator/ComposeInKey.build/ComposeInKey-project-headers.hmap -F/Users/thomasforzaglia/ComposeInKeys/build/Debug-iphonesimulator -I/Users/thomasforzaglia/ComposeInKeys/build/Debug-iphonesimulator/include -I/Users/thomasforzaglia/ComposeInKeys/build/ComposeInKey.build/Debug-iphonesimulator/ComposeInKey.build/DerivedSources/i386 -I/Users/thomasforzaglia/ComposeInKeys/build/ComposeInKey.build/Debug-iphonesimulator/ComposeInKey.build/DerivedSources -include /var/folders/vv/vvt6HHV5Hn4LyfxIDT9JqU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ComposeInKey_Prefix-gzcjvozefkbvtccgljevbnxyriry/ComposeInKey_Prefix.pch -c /Users/thomasforzaglia/ComposeInKeys/Classes/MainMenuViewController.m -o /Users/thomasforzaglia/ComposeInKeys/build/ComposeInKey.build/Debug-iphonesimulator/ComposeInKey.build/Objects-normal/i386/MainMenuViewController.o0#
 
 CCompileC build/ComposeInKey.build/Debug-iphonesimulator/ComposeInKey.build/Objects-normal/i386/RootViewController.o /Users/thomasforzaglia/ComposeInKey/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s353724387.057385
@@ -1740,12 +1739,12 @@ x/Users/thomasforzaglia/ComposeInKeys/Classes/ChordPic.xib
 lSLF07#2@31"CompileXIB Classes/ChordPic.xib353779478#353779478#0(0"0(0#0#57"/Users/thomasforzaglia/ComposeInKeys/Classes/ChordPic.xib8605281696#573"    cd /Users/thomasforzaglia/ComposeInKeys    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/thomasforzaglia/ComposeInKeys/build/Debug-iphonesimulator/ComposeInKey.app/ChordPic.nib /Users/thomasforzaglia/ComposeInKeys/Classes/ChordPic.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
 
 CCompileXIB /Users/thomasforzaglia/ComposeInKeys/Classes/KeyInfo.xib
-s354260182.065350
-e354260182.967783
+s354775963.873443
+e354775964.278612
 r1
 xCompileXIB
 x/Users/thomasforzaglia/ComposeInKeys/Classes/KeyInfo.xib
-lSLF07#2@30"CompileXIB Classes/KeyInfo.xib354260182#354260182#0(0"0(0#0#56"/Users/thomasforzaglia/ComposeInKeys/Classes/KeyInfo.xib8617641120#571"    cd /Users/thomasforzaglia/ComposeInKeys    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/thomasforzaglia/ComposeInKeys/build/Debug-iphonesimulator/ComposeInKey.app/KeyInfo.nib /Users/thomasforzaglia/ComposeInKeys/Classes/KeyInfo.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+lSLF07#2@30"CompileXIB Classes/KeyInfo.xib354775963#354775964#0(0"0(0#0#56"/Users/thomasforzaglia/ComposeInKeys/Classes/KeyInfo.xib8614541152#571"    cd /Users/thomasforzaglia/ComposeInKeys    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/thomasforzaglia/ComposeInKeys/build/Debug-iphonesimulator/ComposeInKey.app/KeyInfo.nib /Users/thomasforzaglia/ComposeInKeys/Classes/KeyInfo.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
 
 CCompileXIB /Users/thomasforzaglia/ComposeInKeys/ComposeInKeys-1.moved-aside/MainMenuViewController.xib
 s353911549.024579
@@ -2366,13 +2365,13 @@ x/Users/thomasforzaglia/ComposeInKey/build/Debug-iphonesimulator/ComposeInKey.ap
 lSLF07#2@124"GenerateDSYMFile build/Debug-iphonesimulator/ComposeInKey.app.dSYM build/Debug-iphonesimulator/ComposeInKey.app/ComposeInKey353724839#353724839#0(0"0(0#0#93"/Users/thomasforzaglia/ComposeInKey/build/Debug-iphonesimulator/ComposeInKey.app/ComposeInKey8616552704#389"    cd /Users/thomasforzaglia/ComposeInKey    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/thomasforzaglia/ComposeInKey/build/Debug-iphonesimulator/ComposeInKey.app/ComposeInKey -o /Users/thomasforzaglia/ComposeInKey/build/Debug-iphonesimulator/ComposeInKey.app.dSYM0#
 
 CGenerateDSYMFile /Users/thomasforzaglia/ComposeInKeys/build/Debug-iphonesimulator/ComposeInKey.app.dSYM /Users/thomasforzaglia/ComposeInKeys/build/Debug-iphonesimulator/ComposeInKey.app/ComposeInKey
-s354260184.669160
-e354260184.743734
+s354775890.491284
+e354775890.511130
 r1
 xGenerateDSYMFile
 x/Users/thomasforzaglia/ComposeInKeys/build/Debug-iphonesimulator/ComposeInKey.app.dSYM
 x/Users/thomasforzaglia/ComposeInKeys/build/Debug-iphonesimulator/ComposeInKey.app/ComposeInKey
-lSLF07#2@124"GenerateDSYMFile build/Debug-iphonesimulator/ComposeInKey.app.dSYM build/Debug-iphonesimulator/ComposeInKey.app/ComposeInKey354260184#354260184#0(0"0(0#0#94"/Users/thomasforzaglia/ComposeInKeys/build/Debug-iphonesimulator/ComposeInKey.app/ComposeInKey8616906976#392"    cd /Users/thomasforzaglia/ComposeInKeys    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/thomasforzaglia/ComposeInKeys/build/Debug-iphonesimulator/ComposeInKey.app/ComposeInKey -o /Users/thomasforzaglia/ComposeInKeys/build/Debug-iphonesimulator/ComposeInKey.app.dSYM0#
+lSLF07#2@124"GenerateDSYMFile build/Debug-iphonesimulator/ComposeInKey.app.dSYM build/Debug-iphonesimulator/ComposeInKey.app/ComposeInKey354775890#354775890#0(0"0(0#0#94"/Users/thomasforzaglia/ComposeInKeys/build/Debug-iphonesimulator/ComposeInKey.app/ComposeInKey8616466976#392"    cd /Users/thomasforzaglia/ComposeInKeys    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/thomasforzaglia/ComposeInKeys/build/Debug-iphonesimulator/ComposeInKey.app/ComposeInKey -o /Users/thomasforzaglia/ComposeInKeys/build/Debug-iphonesimulator/ComposeInKey.app.dSYM0#
 
 CLd /Users/thomasforzaglia/ComposeInKey/build/Debug-iphonesimulator/ComposeInKey.app/ComposeInKey normal i386
 s353724839.609305
@@ -2385,14 +2384,14 @@ xi386
 lSLF07#2@98"Link /Users/thomasforzaglia/ComposeInKey/build/Debug-iphonesimulator/ComposeInKey.app/ComposeInKey353724839#353724839#0(0"0(0#0#0"8628106400#910"    cd /Users/thomasforzaglia/ComposeInKey    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/thomasforzaglia/ComposeInKey/build/Debug-iphonesimulator -F/Users/thomasforzaglia/ComposeInKey/build/Debug-iphonesimulator -filelist /Users/thomasforzaglia/ComposeInKey/build/ComposeInKey.build/Debug-iphonesimulator/ComposeInKey.build/Objects-normal/i386/ComposeInKey.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/thomasforzaglia/ComposeInKey/build/Debug-iphonesimulator/ComposeInKey.app/ComposeInKey0#
 
 CLd /Users/thomasforzaglia/ComposeInKeys/build/Debug-iphonesimulator/ComposeInKey.app/ComposeInKey normal i386
-s354260184.285672
-e354260184.669062
+s354775890.470085
+e354775890.491209
 r1
 xLd
 x/Users/thomasforzaglia/ComposeInKeys/build/Debug-iphonesimulator/ComposeInKey.app/ComposeInKey
 xnormal
 xi386
-lSLF07#2@99"Link /Users/thomasforzaglia/ComposeInKeys/build/Debug-iphonesimulator/ComposeInKey.app/ComposeInKey354260184#354260184#0(0"0(0#0#0"8616809312#939"    cd /Users/thomasforzaglia/ComposeInKeys    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/thomasforzaglia/ComposeInKeys/build/Debug-iphonesimulator -F/Users/thomasforzaglia/ComposeInKeys/build/Debug-iphonesimulator -filelist /Users/thomasforzaglia/ComposeInKeys/build/ComposeInKey.build/Debug-iphonesimulator/ComposeInKey.build/Objects-normal/i386/ComposeInKey.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework AVFoundation -o /Users/thomasforzaglia/ComposeInKeys/build/Debug-iphonesimulator/ComposeInKey.app/ComposeInKey0#
+lSLF07#2@99"Link /Users/thomasforzaglia/ComposeInKeys/build/Debug-iphonesimulator/ComposeInKey.app/ComposeInKey354775890#354775890#0(0"0(0#0#0"8617342976#939"    cd /Users/thomasforzaglia/ComposeInKeys    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/thomasforzaglia/ComposeInKeys/build/Debug-iphonesimulator -F/Users/thomasforzaglia/ComposeInKeys/build/Debug-iphonesimulator -filelist /Users/thomasforzaglia/ComposeInKeys/build/ComposeInKey.build/Debug-iphonesimulator/ComposeInKey.build/Objects-normal/i386/ComposeInKey.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework AVFoundation -o /Users/thomasforzaglia/ComposeInKeys/build/Debug-iphonesimulator/ComposeInKey.app/ComposeInKey0#
 
 CProcessInfoPlistFile /Users/thomasforzaglia/ComposeInKey/build/Debug-iphonesimulator/ComposeInKey.app/Info.plist ComposeInKey-Info.plist
 s353722378.401782
@@ -2441,10 +2440,10 @@ x/Users/thomasforzaglia/ComposeInKey/build/Debug-iphonesimulator/ComposeInKey.ap
 lSLF07#2@86"Touch /Users/thomasforzaglia/ComposeInKey/build/Debug-iphonesimulator/ComposeInKey.app353724839#353724839#0(0"0(0#0#0"8672827040#277"    cd /Users/thomasforzaglia/ComposeInKey    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/thomasforzaglia/ComposeInKey/build/Debug-iphonesimulator/ComposeInKey.app0#
 
 CTouch /Users/thomasforzaglia/ComposeInKeys/build/Debug-iphonesimulator/ComposeInKey.app
-s354260371.106597
-e354260371.108500
+s354775964.279320
+e354775964.281150
 r1
 xTouch
 x/Users/thomasforzaglia/ComposeInKeys/build/Debug-iphonesimulator/ComposeInKey.app
-lSLF07#2@87"Touch /Users/thomasforzaglia/ComposeInKeys/build/Debug-iphonesimulator/ComposeInKey.app354260371#354260371#0(0"0(0#0#0"32651513917341812#279"    cd /Users/thomasforzaglia/ComposeInKeys    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/thomasforzaglia/ComposeInKeys/build/Debug-iphonesimulator/ComposeInKey.app0#
+lSLF07#2@87"Touch /Users/thomasforzaglia/ComposeInKeys/build/Debug-iphonesimulator/ComposeInKey.app354775964#354775964#0(0"0(0#0#0"8614691840#279"    cd /Users/thomasforzaglia/ComposeInKeys    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/thomasforzaglia/ComposeInKeys/build/Debug-iphonesimulator/ComposeInKey.app0#
 

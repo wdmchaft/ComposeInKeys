@@ -15,7 +15,13 @@
 	
 	UIButton* chordPressed;
 	UILabel* chordTitle;
-	UILabel* noteList;
+	UILabel* note1;
+	UILabel* note2;
+	UILabel* note3;
+	UILabel* note4;
+	UILabel* note5;
+	UILabel* note6;
+	UILabel* note7;
 	UIButton* hidden;
 	UIButton* chord1;
 	UIButton* chord2;
@@ -29,7 +35,13 @@
 
 @property (nonatomic, retain) IBOutlet UIButton* chordPressed;
 @property (nonatomic, retain) IBOutlet UILabel* chordTitle;
-@property (nonatomic, retain) IBOutlet UILabel* noteList;
+@property (nonatomic, retain) IBOutlet UILabel* note1;
+@property (nonatomic, retain) IBOutlet UILabel* note2;
+@property (nonatomic, retain) IBOutlet UILabel* note3;
+@property (nonatomic, retain) IBOutlet UILabel* note4;
+@property (nonatomic, retain) IBOutlet UILabel* note5;
+@property (nonatomic, retain) IBOutlet UILabel* note6;
+@property (nonatomic, retain) IBOutlet UILabel* note7;
 @property (nonatomic, retain) IBOutlet UIButton* hidden;
 @property (nonatomic, retain) IBOutlet UIButton* chord1;
 @property (nonatomic, retain) IBOutlet UIButton* chord2;

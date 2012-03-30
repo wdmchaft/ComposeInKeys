@@ -15,7 +15,13 @@
 
 @synthesize chordPressed;
 @synthesize chordTitle;
-@synthesize noteList;
+@synthesize note1;
+@synthesize note2;
+@synthesize note3;
+@synthesize note4;
+@synthesize note5;
+@synthesize note6;
+@synthesize note7;
 @synthesize hidden;
 @synthesize chord1;
 @synthesize chord2;
@@ -39,7 +45,13 @@
 			chordTitle.text = @"A Major";	
 		else	
 			chordTitle.text = @"F# Minor";
-		noteList.text = @"A B C# D E F# G# A";
+		note1.text = @"A";
+		note2.text = @"B";
+		note3.text = @"C#";
+		note4.text = @"D";
+		note5.text = @"E";
+		note6.text = @"F#";
+		note7.text = @"G#";
 		[chord1 setTitle:@"A" forState:UIControlStateNormal];
 		[chord2 setTitle:@"Bm" forState:UIControlStateNormal];
 		[chord3 setTitle:@"C#m" forState:UIControlStateNormal];
@@ -56,7 +68,13 @@
 			chordTitle.text = @"A# Major";	
 		else
 			chordTitle.text = @"G Minor";	
-		noteList.text = @"A# C D D# F G A";
+		note1.text = @"A#";
+		note2.text = @"C";
+		note3.text = @"D";
+		note4.text = @"D#";
+		note5.text = @"F";
+		note6.text = @"G";
+		note7.text = @"A";
 		[chord1 setTitle:@"A#" forState:UIControlStateNormal];
 		[chord2 setTitle:@"Cm" forState:UIControlStateNormal];
 		[chord3 setTitle:@"Dm" forState:UIControlStateNormal];
@@ -69,7 +87,13 @@
 			chordTitle.text = @"B Major";	
 		else
 			chordTitle.text = @"G# Minor";
-		noteList.text = @"B C# D# E F# G# A#";
+		note1.text = @"B";
+		note2.text = @"C#";
+		note3.text = @"D#";
+		note4.text = @"E";
+		note5.text = @"F#";
+		note6.text = @"G#";
+		note7.text = @"A#";
 		[chord1 setTitle:@"B" forState:UIControlStateNormal];
 		[chord2 setTitle:@"C#m" forState:UIControlStateNormal];
 		[chord3 setTitle:@"D#m" forState:UIControlStateNormal];
@@ -82,7 +106,13 @@
 			chordTitle.text = @"C Major";	
 		else 
 			chordTitle.text = @"A Minor";	
-		noteList.text = @"C D E F G A B";
+		note1.text = @"C";
+		note2.text = @"D";
+		note3.text = @"E";
+		note4.text = @"F";
+		note5.text = @"G";
+		note6.text = @"A";
+		note7.text = @"B";
 		[chord1 setTitle:@"C" forState:UIControlStateNormal];
 		[chord2 setTitle:@"Dm" forState:UIControlStateNormal];
 		[chord3 setTitle:@"Em" forState:UIControlStateNormal];
@@ -95,7 +125,13 @@
 			chordTitle.text = @"C# Major";	
 		else 
 			chordTitle.text = @"A# Minor";	
-		noteList.text = @"C# D# F F# G# A# C";
+		note1.text = @"C#";
+		note2.text = @"D#";
+		note3.text = @"F";
+		note4.text = @"F#";
+		note5.text = @"G#";
+		note6.text = @"A#";
+		note7.text = @"C";
 		[chord1 setTitle:@"C#" forState:UIControlStateNormal];
 		[chord2 setTitle:@"D#m" forState:UIControlStateNormal];
 		[chord3 setTitle:@"E#m" forState:UIControlStateNormal];
@@ -108,7 +144,13 @@
 			chordTitle.text = @"D Major";	
 		else 
 			chordTitle.text = @"B Minor";	
-		noteList.text = @"D E F# G A B C#";
+		note1.text = @"D";
+		note2.text = @"E";
+		note3.text = @"F#";
+		note4.text = @"G";
+		note5.text = @"A";
+		note6.text = @"B";
+		note7.text = @"C#";
 		[chord1 setTitle:@"D" forState:UIControlStateNormal];
 		[chord2 setTitle:@"Em" forState:UIControlStateNormal];
 		[chord3 setTitle:@"F#m" forState:UIControlStateNormal];
@@ -121,7 +163,13 @@
 			chordTitle.text = @"D# Major";	
 		else 
 			chordTitle.text = @"C Minor";	
-		noteList.text = @"D# F G G# A# C D";
+		note1.text = @"D#";
+		note2.text = @"F";
+		note3.text = @"G";
+		note4.text = @"G#";
+		note5.text = @"A#";
+		note6.text = @"C";
+		note7.text = @"D";
 		[chord1 setTitle:@"D#" forState:UIControlStateNormal];
 		[chord2 setTitle:@"Fm" forState:UIControlStateNormal];
 		[chord3 setTitle:@"Gm" forState:UIControlStateNormal];
@@ -134,7 +182,13 @@
 			chordTitle.text = @"E Major";	
 		else 
 			chordTitle.text = @"C# Minor";	
-		noteList.text = @"E F# G# A B C# D#";
+		note1.text = @"E";
+		note2.text = @"F#";
+		note3.text = @"G#";
+		note4.text = @"A";
+		note5.text = @"B";
+		note6.text = @"C#";
+		note7.text = @"D#";
 		[chord1 setTitle:@"E" forState:UIControlStateNormal];
 		[chord2 setTitle:@"F#m" forState:UIControlStateNormal];
 		[chord3 setTitle:@"G#m" forState:UIControlStateNormal];
@@ -147,7 +201,13 @@
 			chordTitle.text = @"F Major";	
 		else 
 			chordTitle.text = @"D Minor";		
-		noteList.text = @"F G A A# C D E";
+		note1.text = @"F";
+		note2.text = @"G";
+		note3.text = @"A";
+		note4.text = @"A#";
+		note5.text = @"C";
+		note6.text = @"D";
+		note7.text = @"E";
 		[chord1 setTitle:@"F" forState:UIControlStateNormal];
 		[chord2 setTitle:@"Gm" forState:UIControlStateNormal];
 		[chord3 setTitle:@"Am" forState:UIControlStateNormal];
@@ -160,7 +220,13 @@
 			chordTitle.text = @"F# Major";	
 		else 
 			chordTitle.text = @"D# Minor";		
-		noteList.text = @"F# G# A# B C# D# F";
+		note1.text = @"F#";
+		note2.text = @"G#";
+		note3.text = @"A#";
+		note4.text = @"B";
+		note5.text = @"C#";
+		note6.text = @"D#";
+		note7.text = @"F";
 		[chord1 setTitle:@"F#" forState:UIControlStateNormal];
 		[chord2 setTitle:@"G#m" forState:UIControlStateNormal];
 		[chord3 setTitle:@"A#m" forState:UIControlStateNormal];
@@ -173,7 +239,13 @@
 			chordTitle.text = @"G Major";	
 		else 
 			chordTitle.text = @"E Minor";
-		noteList.text = @"G A B C D E F#";
+		note1.text = @"G";
+		note2.text = @"A";
+		note3.text = @"B";
+		note4.text = @"C";
+		note5.text = @"D";
+		note6.text = @"E";
+		note7.text = @"F#";
 		[chord1 setTitle:@"G" forState:UIControlStateNormal];
 		[chord2 setTitle:@"Am" forState:UIControlStateNormal];
 		[chord3 setTitle:@"Bm" forState:UIControlStateNormal];
@@ -186,7 +258,13 @@
 			chordTitle.text = @"G# Major";	
 		else 
 			chordTitle.text = @"F Minor";	
-		noteList.text = @"G# A# C C# D# F G";
+		note1.text = @"G#";
+		note2.text = @"A#";
+		note3.text = @"C";
+		note4.text = @"C#";
+		note5.text = @"D#";
+		note6.text = @"F";
+		note7.text = @"G";
 		[chord1 setTitle:@"G#" forState:UIControlStateNormal];
 		[chord2 setTitle:@"A#m" forState:UIControlStateNormal];
 		[chord3 setTitle:@"Cm" forState:UIControlStateNormal];
@@ -221,6 +299,7 @@
 -(IBAction)playScale:(id)sender {
 
 	[musicPlayer play];
+	//noteList.textColor = [UIColor redColor]; 
 }
 	
 // The designated initializer.  Override if you create the controller programmatically and want to perform customization that is not appropriate for viewDidLoad.

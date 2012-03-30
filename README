@@ -3,4 +3,17 @@ Store the notes in the array
 
 3/24/12 1:46AM
 Added a hidden button over the view to handle playing the audio clip of the scale when the user taps the note list. Added the music player from the AVFoundation framework. Tested on one key. Seemed to work. Will need to test further.
- 
+
+this link can be helpful for changing color based on time interval:
+http://www.iphonedevsdk.com/forum/iphone-sdk-development/30732-using-nstimer-change-label-background-colors-sequence.html
+
+3/26/12 2:03AM
+Gonna try putting each note in the scale in a different UILabel, then manipulate the text and font color based on the time interval from the scale playback 
+
+3/28/12 1:43AM
+Got the array to work with the UILabel, but there is no way to change the color of an NSString so this won't work. Will need to have a different UILable for each note in the scale.
+
+3/30/12 12:59AM
+
+Made each note a separate label and formatted them. Set up each key with the correct note for each label. Put the hidden button over the note labels and linked everything up in IB. Now need to change color of the notes based on the audio playback. Also need to record the audio files for the scales and might as well do chords as well.
+
