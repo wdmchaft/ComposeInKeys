@@ -17,3 +17,5 @@ Got the array to work with the UILabel, but there is no way to change the color 
 
 Made each note a separate label and formatted them. Set up each key with the correct note for each label. Put the hidden button over the note labels and linked everything up in IB. Now need to change color of the notes based on the audio playback. Also need to record the audio files for the scales and might as well do chords as well.
 
+4/2/12 1:00AM
+Added the code to turn the color of the notes to red when the scale is being played. Now just need to record those scales. Also I guess I may as well include a button on the chord page to play the chord when the button is pressed.

@@ -31,6 +31,8 @@
 	UIButton* chord6;
 	
 	AVAudioPlayer* musicPlayer;
+	BOOL isTimerTicking;
+	int numTimerTicks;
 }
 
 @property (nonatomic, retain) IBOutlet UIButton* chordPressed;

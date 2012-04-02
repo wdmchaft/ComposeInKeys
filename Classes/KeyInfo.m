@@ -61,7 +61,6 @@
 		
 		NSURL* musicURL = [NSURL fileURLWithPath:[[NSBundle mainBundle] pathForResource:@"Unwell" ofType:@"mp3"]];	
 		[musicPlayer initWithContentsOfURL:musicURL error:&error];
-
 	}
 	if ([buttonPressed isEqualToString:@"A#"] || [buttonPressed isEqualToString:@"Gm"]) {
 		if ([buttonPressed isEqualToString:@"A#"])
@@ -81,6 +80,9 @@
 		[chord4 setTitle:@"D#" forState:UIControlStateNormal];
 		[chord5 setTitle:@"F" forState:UIControlStateNormal];
 		[chord6 setTitle:@"Gm" forState:UIControlStateNormal];		
+		
+		NSURL* musicURL = [NSURL fileURLWithPath:[[NSBundle mainBundle] pathForResource:@"Unwell" ofType:@"mp3"]];	
+		[musicPlayer initWithContentsOfURL:musicURL error:&error];
 	}
 	if ([buttonPressed isEqualToString:@"B"] || [buttonPressed isEqualToString:@"G#m"]) {
 		if ([buttonPressed isEqualToString:@"B"])
@@ -100,6 +102,9 @@
 		[chord4 setTitle:@"E" forState:UIControlStateNormal];
 		[chord5 setTitle:@"F#" forState:UIControlStateNormal];
 		[chord6 setTitle:@"G#m" forState:UIControlStateNormal];		
+		
+		NSURL* musicURL = [NSURL fileURLWithPath:[[NSBundle mainBundle] pathForResource:@"Unwell" ofType:@"mp3"]];	
+		[musicPlayer initWithContentsOfURL:musicURL error:&error];
 	}
 	if ([buttonPressed isEqualToString:@"C"] || [buttonPressed isEqualToString:@"Am"]) {
 		if ([buttonPressed isEqualToString:@"C"]) 
@@ -119,6 +124,9 @@
 		[chord4 setTitle:@"F" forState:UIControlStateNormal];
 		[chord5 setTitle:@"G" forState:UIControlStateNormal];
 		[chord6 setTitle:@"Am" forState:UIControlStateNormal];		
+		
+		NSURL* musicURL = [NSURL fileURLWithPath:[[NSBundle mainBundle] pathForResource:@"Unwell" ofType:@"mp3"]];	
+		[musicPlayer initWithContentsOfURL:musicURL error:&error];
 	}
 	if ([buttonPressed isEqualToString:@"C#"] || [buttonPressed isEqualToString:@"A#m"]) {
 		if ([buttonPressed isEqualToString:@"C#"]) 
@@ -138,6 +146,9 @@
 		[chord4 setTitle:@"F#" forState:UIControlStateNormal];
 		[chord5 setTitle:@"G#" forState:UIControlStateNormal];
 		[chord6 setTitle:@"A#m" forState:UIControlStateNormal];		
+		
+		NSURL* musicURL = [NSURL fileURLWithPath:[[NSBundle mainBundle] pathForResource:@"Unwell" ofType:@"mp3"]];	
+		[musicPlayer initWithContentsOfURL:musicURL error:&error];
 	}
 	if ([buttonPressed isEqualToString:@"D"] || [buttonPressed isEqualToString:@"Bm"]) {
 		if ([buttonPressed isEqualToString:@"D"]) 
@@ -156,7 +167,10 @@
 		[chord3 setTitle:@"F#m" forState:UIControlStateNormal];
 		[chord4 setTitle:@"G" forState:UIControlStateNormal];
 		[chord5 setTitle:@"A" forState:UIControlStateNormal];
-		[chord6 setTitle:@"Bm" forState:UIControlStateNormal];		
+		[chord6 setTitle:@"Bm" forState:UIControlStateNormal];	
+		
+		NSURL* musicURL = [NSURL fileURLWithPath:[[NSBundle mainBundle] pathForResource:@"Unwell" ofType:@"mp3"]];	
+		[musicPlayer initWithContentsOfURL:musicURL error:&error];
 	}
 	if ([buttonPressed isEqualToString:@"D#"] || [buttonPressed isEqualToString:@"Cm"]) {
 		if ([buttonPressed isEqualToString:@"D#"]) 
@@ -176,6 +190,9 @@
 		[chord4 setTitle:@"G#" forState:UIControlStateNormal];
 		[chord5 setTitle:@"A#" forState:UIControlStateNormal];
 		[chord6 setTitle:@"Cm" forState:UIControlStateNormal];		
+		
+		NSURL* musicURL = [NSURL fileURLWithPath:[[NSBundle mainBundle] pathForResource:@"Unwell" ofType:@"mp3"]];	
+		[musicPlayer initWithContentsOfURL:musicURL error:&error];
 	}
 	if ([buttonPressed isEqualToString:@"E"] || [buttonPressed isEqualToString:@"C#m"]) {
 		if ([buttonPressed isEqualToString:@"E"]) 
@@ -195,6 +212,9 @@
 		[chord4 setTitle:@"A" forState:UIControlStateNormal];
 		[chord5 setTitle:@"B" forState:UIControlStateNormal];
 		[chord6 setTitle:@"C#m" forState:UIControlStateNormal];		
+		
+		NSURL* musicURL = [NSURL fileURLWithPath:[[NSBundle mainBundle] pathForResource:@"Unwell" ofType:@"mp3"]];	
+		[musicPlayer initWithContentsOfURL:musicURL error:&error];
 	}
 	if ([buttonPressed isEqualToString:@"F"] || [buttonPressed isEqualToString:@"Dm"]) {
 		if ([buttonPressed isEqualToString:@"F"]) 
@@ -214,6 +234,9 @@
 		[chord4 setTitle:@"A#" forState:UIControlStateNormal];
 		[chord5 setTitle:@"C" forState:UIControlStateNormal];
 		[chord6 setTitle:@"Dm" forState:UIControlStateNormal];		
+		
+		NSURL* musicURL = [NSURL fileURLWithPath:[[NSBundle mainBundle] pathForResource:@"Unwell" ofType:@"mp3"]];	
+		[musicPlayer initWithContentsOfURL:musicURL error:&error];
 	}
 	if ([buttonPressed isEqualToString:@"F#"] || [buttonPressed isEqualToString:@"D#m"]) {
 		if ([buttonPressed isEqualToString:@"F#"]) 
@@ -233,6 +256,9 @@
 		[chord4 setTitle:@"B" forState:UIControlStateNormal];
 		[chord5 setTitle:@"C#" forState:UIControlStateNormal];
 		[chord6 setTitle:@"D#m" forState:UIControlStateNormal];		
+		
+		NSURL* musicURL = [NSURL fileURLWithPath:[[NSBundle mainBundle] pathForResource:@"Unwell" ofType:@"mp3"]];	
+		[musicPlayer initWithContentsOfURL:musicURL error:&error];
 	}
 	if ([buttonPressed isEqualToString:@"G"] || [buttonPressed isEqualToString:@"Em"]) {
 		if ([buttonPressed isEqualToString:@"G"]) 
@@ -252,6 +278,9 @@
 		[chord4 setTitle:@"C" forState:UIControlStateNormal];
 		[chord5 setTitle:@"D" forState:UIControlStateNormal];
 		[chord6 setTitle:@"Em" forState:UIControlStateNormal];		
+		
+		NSURL* musicURL = [NSURL fileURLWithPath:[[NSBundle mainBundle] pathForResource:@"Unwell" ofType:@"mp3"]];	
+		[musicPlayer initWithContentsOfURL:musicURL error:&error];
 	}
 	if ([buttonPressed isEqualToString:@"G#"] || [buttonPressed isEqualToString:@"Fm"]) {
 		if ([buttonPressed isEqualToString:@"G#"]) 
@@ -271,6 +300,9 @@
 		[chord4 setTitle:@"C#" forState:UIControlStateNormal];
 		[chord5 setTitle:@"D#" forState:UIControlStateNormal];
 		[chord6 setTitle:@"Fm" forState:UIControlStateNormal];		
+		
+		NSURL* musicURL = [NSURL fileURLWithPath:[[NSBundle mainBundle] pathForResource:@"Unwell" ofType:@"mp3"]];	
+		[musicPlayer initWithContentsOfURL:musicURL error:&error];
 	}
 	[super viewDidLoad];
 }
@@ -283,7 +315,7 @@
 	NSString *chord = [chordPressed currentTitle];
 	NSUserDefaults *defaults = [NSUserDefaults standardUserDefaults];
 	
-	NSLog(@"Button pressed22222222222: %@", chord);
+	NSLog(@"Button pressed: %@", chord);
 	
 	[defaults setObject:chord forKey:@"chord"];
 	[chordPic initWithNibName:@"ChordPic" bundle:nil];
@@ -297,9 +329,50 @@
 }
 
 -(IBAction)playScale:(id)sender {
-
+	
+	[NSTimer scheduledTimerWithTimeInterval:1 target:self selector:@selector(timerTick) userInfo:nil repeats:YES];
+	 numTimerTicks = 1;
+	 isTimerTicking = YES;
+	
 	[musicPlayer play];
-	//noteList.textColor = [UIColor redColor]; 
+}
+
+-(void)timerTick
+{
+	if(isTimerTicking) {
+		
+		if(numTimerTicks == 1) {
+			note1.textColor = [UIColor redColor];
+		}
+		else if(numTimerTicks == 2) {
+			note2.textColor = [UIColor redColor];
+			note1.textColor = [UIColor yellowColor];
+		}
+		else if(numTimerTicks == 3) {
+			note3.textColor = [UIColor redColor];
+			note2.textColor = [UIColor yellowColor];
+		}
+		else if(numTimerTicks == 4) {
+			note4.textColor = [UIColor redColor];
+			note3.textColor = [UIColor yellowColor];
+		}
+		else if(numTimerTicks == 5) {
+			note5.textColor = [UIColor redColor];
+			note4.textColor = [UIColor yellowColor];
+		}
+		else if(numTimerTicks == 6) {
+			note6.textColor = [UIColor redColor];
+			note5.textColor = [UIColor yellowColor];
+		}
+		else if(numTimerTicks == 7) {
+			note7.textColor = [UIColor redColor];
+			note6.textColor = [UIColor yellowColor];
+		}
+		else if(numTimerTicks > 7) {
+			note7.textColor = [UIColor yellowColor];
+		}
+		numTimerTicks++;
+	}
 }
 	
 // The designated initializer.  Override if you create the controller programmatically and want to perform customization that is not appropriate for viewDidLoad.
